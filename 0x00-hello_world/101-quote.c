@@ -3,7 +3,7 @@
 /**
  * main - Prints a text followed by new line
  *
- * Return Always 1 (Pass)
+ * Return: Always 1 (Pass)
  */
 int main(void)
 {

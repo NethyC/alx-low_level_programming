@@ -3,7 +3,7 @@
 /**
  * main - prints exactly
  *
- * Return Always 0 (passs)
+ * Return: Always 0 (passs)
  */
 int main(void)
 {
