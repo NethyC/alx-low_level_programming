@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - prints positive variables, zero or negative
  *
- * Return: Always (pass)
+ * Return: Always 0 (pass)
  */
 int main(void)
 {
@@ -22,7 +22,7 @@ int main(void)
 	{
 		print("%d is zero\n", n);
 	}
-	else
+	else if (n < 0)
 	{
 		printf("%d is negative\n", n);
 	}
