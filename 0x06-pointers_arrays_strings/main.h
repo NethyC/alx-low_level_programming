@@ -3,6 +3,11 @@
 #include <stdio.h>
 
 
+/**
+ * void prototypes()
+ * int prototypes()
+ * char prototypes()
+ */
 void reverse_arrary(int *a, int n);
 void print_number(int n);
 void print_buffer(char *b, int size);
@@ -18,4 +23,4 @@ char *rot13(char *);
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
 char *add_strings(char *n1, char *n2, char *r, int r_index);
 
-#endif
+#endif /MAIN_H/
