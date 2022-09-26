@@ -5,7 +5,7 @@
  * @s: string to check
  * @c: character to check for
  *
- * Rrturn: pointer to spot in s with c or null
+ * Return: pointer to spot in s with c or null
  */
 char *_strchr(char *s, char c)
 {
